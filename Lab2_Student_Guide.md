@@ -34,7 +34,8 @@ By completing this lab, you will:
 
 ### Step 1: Watch Preparation Videos
 
-**Video 1: Lab2 Introduction**
+**Video 1: Lab2 Introduction** [Lab 2 Youtube](https://youtu.be/B7ZdFEC-XR0)
+
 - Overview of the four logic functions you'll implement
 - Understanding RTL diagrams and block-level thinking
 - Expected results and verification approach
