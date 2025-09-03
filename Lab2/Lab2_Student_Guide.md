@@ -41,7 +41,7 @@ By completing this lab, you will:
 
 ### Step 1: Watch Preparation Videos
 
-**Video 1: Lab2 Introduction**  
+**Video 1: Lab2 Introduction**     
 
 <a href="https://www.youtube.com/watch?v=SpQ7vx6j0cw" target="_blank" rel="noopener noreferrer">   Click here to watch the video for Lab 2 </a>
 
