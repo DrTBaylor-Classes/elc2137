@@ -41,10 +41,9 @@ By completing this lab, you will:
 
 ### Step 1: Watch Preparation Videos
 
-**Video 1: Lab2 Introduction** <a href="https://www.youtube.com/@MichaelT-ux5ux" target="_blank" rel="noopener noreferrer">
-<a href="https://www.youtube.com/watch?v=SpQ7vx6j0cw" target="_blank" rel="noopener noreferrer">
-  <img src="/images/Lab2_intro_thumbnail.jpg" alt="Link to Lab 2 Introduction Video" style="max-width:560px; width:100%;">
-</a></a></a>
+**Video 1: Lab2 Introduction** <a href="https://www.youtube.com/watch?v=SpQ7vx6j0cw" target="_blank" rel="noopener noreferrer">
+  <img src="/images/Lab2_intro_thumbnail.jpg" alt="Link to Lab 2 Introduction Video" style="max-width:300px; width:100%;">
+</a>
 
 
 
