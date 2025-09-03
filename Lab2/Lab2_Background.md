@@ -1,4 +1,4 @@
-# Lab 2: Comprehensive Background Reading
+# Lab 2: Background Reading
 
 ## Table of Contents
 
