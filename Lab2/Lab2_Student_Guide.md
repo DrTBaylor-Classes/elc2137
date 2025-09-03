@@ -25,17 +25,17 @@ By completing this lab, you will:
 ## Section A: Pre-Lab Preparation
 
 ### TL;DR: "Complete Before Coming to Lab"
-✅ Watch Videos 1 & 2 (Lab overview and VS Code workflow)
+* ✅ Watch Videos 1 & 2 (Lab overview and VS Code workflow)
 
-✅ Clone repository to VS Code/Box (GitHub Desktop may solve authentication issues)
+* ✅ Clone repository to VS Code/Box (GitHub Desktop may solve authentication issues)
 
-✅ Verify tools work with `make help` 
+* ✅ Verify tools work with `make help` 
 
-✅ Complete missing Verilog modules (`logic_func1.v` and `logic_func3.v`)
+* ✅ Complete missing Verilog modules (`logic_func1.v` and `logic_func3.v`)
 
-✅ Test individual modules work correctly
+* ✅ Test individual modules work correctly
 
-✅ Review expected results and understand the four functions  
+* ✅ Review expected results and understand the four functions  
 
 
 
