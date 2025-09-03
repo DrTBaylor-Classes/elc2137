@@ -43,7 +43,7 @@ By completing this lab, you will:
 
 **Video 1: Lab2 Introduction**     
 
-<a href="https://www.youtube.com/watch?v=SpQ7vx6j0cw" target="_blank" rel="noopener noreferrer">   Click here to watch the video for Lab 2 </a>
+<a href="https://www.youtube.com/watch?v=SpQ7vx6j0cw" target="_blank" rel="noopener noreferrer">   Click here to watch the Intro video for Lab 2 </a>
 
 - Overview of the four logic functions you'll implement
 - Understanding RTL diagrams and block-level thinking
@@ -51,6 +51,9 @@ By completing this lab, you will:
 - Hardware vs programming mindset
 
 **Video 2: RTL Modules and Testbenches** 
+
+<a href="https://www.youtube.com/watch?v=qEU6_KaPJPU" target="_blank" rel="noopener noreferrer">   Click here to watch the RTL Modules and Testbenches Video for Lab 2 </a>
+
 - VS Code workflow and terminal usage
 - Module structure and syntax
 - Individual module testing with Make commands
