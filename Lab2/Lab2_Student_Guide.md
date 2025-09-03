@@ -39,6 +39,8 @@ By completing this lab, you will:
   <img src="/images/Lab2_intro_thumbnail.jpg" alt="Link to Lab 2 Introduction Video" style="max-width:560px; width:100%;">
 </a></a></a>
 
+
+
 - Overview of the four logic functions you'll implement
 - Understanding RTL diagrams and block-level thinking
 - Expected results and verification approach
